@@ -1,0 +1,15 @@
+E:\Workspace\backend\C#\bin\Debug\net7.0\NameSpace.exe
+E:\Workspace\backend\C#\bin\Debug\net7.0\NameSpace.deps.json
+E:\Workspace\backend\C#\bin\Debug\net7.0\NameSpace.runtimeconfig.json
+E:\Workspace\backend\C#\bin\Debug\net7.0\NameSpace.dll
+E:\Workspace\backend\C#\bin\Debug\net7.0\NameSpace.pdb
+E:\Workspace\backend\C#\obj\Debug\net7.0\NameSpace.csproj.AssemblyReference.cache
+E:\Workspace\backend\C#\obj\Debug\net7.0\NameSpace.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\backend\C#\obj\Debug\net7.0\NameSpace.AssemblyInfoInputs.cache
+E:\Workspace\backend\C#\obj\Debug\net7.0\NameSpace.AssemblyInfo.cs
+E:\Workspace\backend\C#\obj\Debug\net7.0\NameSpace.csproj.CoreCompileInputs.cache
+E:\Workspace\backend\C#\obj\Debug\net7.0\NameSpace.dll
+E:\Workspace\backend\C#\obj\Debug\net7.0\refint\NameSpace.dll
+E:\Workspace\backend\C#\obj\Debug\net7.0\NameSpace.pdb
+E:\Workspace\backend\C#\obj\Debug\net7.0\NameSpace.genruntimeconfig.cache
+E:\Workspace\backend\C#\obj\Debug\net7.0\ref\NameSpace.dll
