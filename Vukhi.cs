@@ -2,9 +2,6 @@ public class Vukhi : IDisposable
 {
     public string name = "ten vu khi";
     int dosatthuong = 1;
-    int a = 1;
-    int b = 2;
-    int c = 1;
     public Vukhi()
     {
         Console.WriteLine("da khoi tao");
