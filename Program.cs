@@ -10,6 +10,6 @@ class Program
 
         };
         Vukhi sungmay = new Vukhi("Sung may", 5);
-        sungmay.tancong();
+        // sungmay.tancong();
     }
 }
